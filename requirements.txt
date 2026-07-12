@@ -3,17 +3,11 @@ langchain
 langchain-core
 langchain-community
 langchain-classic
-
+langgraph
 langgraph-checkpoint-sqlite
 #Groq Integration
 langchain-groq
 
-# OpenAI Integration
-langchain-openai
-openai
-
-# Anthropic Integration
-langchain-anthropic
 
 # Google Gemini (PaLM) Integration
 langchain-google-genai
@@ -27,21 +21,8 @@ huggingface-hub
 # Environment Variable Management
 python-dotenv
 
-# Machine Learning Utilities
-numpy
-scikit-learn
 
-streamlit
-#pip install -U ddgs
-ddgs
-
-deepagents
-uv
-tavily-python
-
-
-langchain_quickjs
-
+#qdrant--integration
 langchain-qdrant
 qdrant_client
 pypdf
